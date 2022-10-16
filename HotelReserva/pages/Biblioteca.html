@@ -1,0 +1,153 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
+    <link href="Estilos/all.min.css" rel="stylesheet" />
+    <link href="Estilos/adminlte.min.css" rel="stylesheet" />
+    <style>
+        .styleTable {
+            display: block;
+            margin: auto;
+            text-align: left;
+            border: 2px solid #555;
+            padding: 19px;
+            box-shadow: 0 6px 15px #777;
+            border-radius: 20px;
+        }
+    </style>
+</head>
+<body class="hold-transition sidebar-mini">
+    <section class="content">
+        <div class="container-fluid">
+            <div class="row">
+                <!-- left column -->
+                <div class="col-md-12">
+                    <!-- general form elements -->
+                    <div class="card card-primary">
+                        <div class="card-header">
+                            <h3 class="card-title">REGISTRO DE PRESTAMO LIBROS</h3>
+                        </div>
+
+                        <form id="frmRegistroPrestamo">
+                            <div class="card-body">
+                                <div class="row">
+                                    <div class="col-md-4">
+                                        <div class="form-group">
+                                            <label for="txtDocumento">Documento</label>
+                                            <input type="text" class="form-control" id="txtDocumento" placeholder="Documento">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div class="form-group">
+                                            <label for="txtNombre">Nombre</label>
+                                            <input type="text" class="form-control" id="txtNombre" placeholder="Nombre">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div class="form-group">
+                                            <label for="txtApellidos">Apellidos</label>
+                                            <input type="text" class="form-control" id="txtApellidos" placeholder="Apellidos">
+                                        </div>
+                                    </div>
+
+                                </div>
+
+                                <div class="row">
+                                    <div class="col-md-4">
+                                        <div class="form-group">
+                                            <label for="txtEmail">Correo Electronico</label>
+                                            <input type="email" class="form-control" id="txtEmail" placeholder="Email">
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-4">
+                                        <div class="form-group">
+                                            <label for="txtTelefono">Teléfono</label>
+                                            <input type="text" class="form-control" id="txtTelefono" placeholder="Teléfono">
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-4">
+                                        <div class="form-group">
+                                            <label for="cboLibro"> Libro</label>
+                                            <select id="cboLibro" class="form-control select2" style="width: 100%;">
+                                                <option value="0">Seleccione un libro</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <div class="form-group">
+                                            <div class="input-group date" data-provide="datepicker">
+                                                <label style="width:100%;" for="txtFechaPrestamo">Fecha Prestamo </label> <br>
+                                                <input type="date" class="form-control" id="txtFechaPrestamo">
+                                                <div class="input-group-addon">
+                                                    <span class="glyphicon glyphicon-th"></span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-6">
+                                        <div class="form-group">
+                                            <div class="input-group date" data-provide="datepicker">
+                                                <label style="width: 100%; " for="txtFechaDevolucion">Fecha Devolución </label> <br>
+                                                <input type="date" class="form-control" id="txtFechaDevolucion">
+                                                <div class="input-group-addon">
+                                                    <span class="glyphicon glyphicon-th"></span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <button type="button" id="btnInsertar" class="btn-block btn-lg btn-primary">Registrar</button>
+                                    </div>
+
+                                </div>
+                                <div class="card-footer">
+                                    <div id="dvMensaje" class=""></div>
+                                </div>
+                                <div class="row styleTable">
+                                    <div id="dvTabla">
+                                        <table id="tblPrestamos" class="display" style="width:100%">
+                                            <thead>
+                                                <tr>
+                                                    <th>Nombre</th>
+                                                    <th>Apellidos</th>
+                                                    <th>Correo</th>
+                                                    <th>Libro</th>
+                                                    <th>Fecha Prestamo</th>
+                                                    <th>Fecha Devolucion</th>
+                                                </tr>
+                                            </thead>
+                                        </table>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <!-- /.card-body -->
+                           
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Scripts-->
+    <script src="../Scripts/jquery.min.js"></script>
+    <script src="../Scripts/bootstrap.bundle.min.js"></script>
+    <script src="../Scripts/jquery.dataTables.min.js"></script>
+    <script src="../Scripts/dataTables.bootstrap4.min.js"></script>
+    <script src="../Comunes/Combos.js"></script>
+    <script src="../Comunes/Grids.js"></script>
+    <script src="Scripts/RegistroPrestamo.js"></script>
+</body>
+</html>

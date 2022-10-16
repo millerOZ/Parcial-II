@@ -1,0 +1,237 @@
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\HotelReserva.dll.config
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\HotelReserva.dll
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\HotelReserva.pdb
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\roslyn\csc.exe
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\roslyn\csc.exe.config
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\roslyn\csc.rsp
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\roslyn\csi.exe
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\roslyn\csi.exe.config
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\roslyn\csi.rsp
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\roslyn\System.AppContext.dll
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\roslyn\System.Collections.Immutable.dll
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\roslyn\System.Console.dll
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\roslyn\System.Globalization.Calendars.dll
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\roslyn\System.IO.Compression.dll
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\roslyn\System.IO.FileSystem.dll
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\roslyn\System.Net.Http.dll
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\roslyn\System.Net.Sockets.dll
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\roslyn\System.Reflection.Metadata.dll
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\roslyn\System.ValueTuple.dll
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\roslyn\System.Xml.XPath.dll
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\roslyn\vbc.exe
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\roslyn\vbc.exe.config
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\roslyn\vbc.rsp
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\roslyn\VBCSCompiler.exe
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\roslyn\VBCSCompiler.exe.config
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\Antlr3.Runtime.dll
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\AspNet.ScriptManager.bootstrap.dll
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\AspNet.ScriptManager.jQuery.dll
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\Microsoft.ScriptManager.WebForms.dll
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\Microsoft.Web.Infrastructure.dll
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\Newtonsoft.Json.dll
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\System.Web.Optimization.dll
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\WebGrease.dll
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\System.Web.Optimization.xml
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\Newtonsoft.Json.xml
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\Antlr3.Runtime.pdb
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\obj\Debug\HotelReserva.csproj.AssemblyReference.cache
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\obj\Debug\HotelReserva.csproj.CoreCompileInputs.cache
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\obj\Debug\HotelReserva.csproj.CopyComplete
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\obj\Debug\HotelReserva.dll
+D:\ITM\2022.2\aplicacionesYServidores\HotelReserva\obj\Debug\HotelReserva.pdb
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\HotelReserva.dll.config
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\HotelReserva.dll
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\HotelReserva.pdb
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\roslyn\csc.exe
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\roslyn\csc.exe.config
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\roslyn\csc.rsp
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\roslyn\csi.exe
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\roslyn\csi.exe.config
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\roslyn\csi.rsp
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\roslyn\System.AppContext.dll
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\roslyn\System.Collections.Immutable.dll
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\roslyn\System.Console.dll
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\roslyn\System.Globalization.Calendars.dll
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\roslyn\System.IO.Compression.dll
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\roslyn\System.IO.FileSystem.dll
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\roslyn\System.Net.Http.dll
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\roslyn\System.Net.Sockets.dll
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\roslyn\System.Reflection.Metadata.dll
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\roslyn\System.ValueTuple.dll
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\roslyn\System.Xml.XPath.dll
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\roslyn\vbc.exe
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\roslyn\vbc.exe.config
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\roslyn\vbc.rsp
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\roslyn\VBCSCompiler.exe
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\roslyn\VBCSCompiler.exe.config
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\Antlr3.Runtime.dll
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\AspNet.ScriptManager.bootstrap.dll
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\AspNet.ScriptManager.jQuery.dll
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\Microsoft.ScriptManager.WebForms.dll
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\Microsoft.Web.Infrastructure.dll
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\Newtonsoft.Json.dll
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\System.Web.Optimization.dll
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\WebGrease.dll
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\System.Web.Optimization.xml
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\Newtonsoft.Json.xml
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\Antlr3.Runtime.pdb
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\obj\Debug\HotelReserva.csproj.AssemblyReference.cache
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\obj\Debug\HotelReserva.csproj.CoreCompileInputs.cache
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\obj\Debug\HotelReserva.csproj.CopyComplete
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\obj\Debug\HotelReserva.dll
+D:\ITM\2022.2\aplicacionesYServidores\Hotel\HotelReserva\obj\Debug\HotelReserva.pdb
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\obj\Debug\HotelReserva.csproj.AssemblyReference.cache
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\obj\Debug\HotelReserva.csproj.CoreCompileInputs.cache
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\HotelReserva.dll.config
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\HotelReserva.dll
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\HotelReserva.pdb
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\roslyn\csc.exe
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\roslyn\csc.exe.config
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\roslyn\csc.rsp
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\roslyn\csi.exe
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\roslyn\csi.exe.config
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\roslyn\csi.rsp
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\roslyn\System.AppContext.dll
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\roslyn\System.Collections.Immutable.dll
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\roslyn\System.Console.dll
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\roslyn\System.Globalization.Calendars.dll
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\roslyn\System.IO.Compression.dll
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\roslyn\System.IO.FileSystem.dll
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\roslyn\System.Net.Http.dll
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\roslyn\System.Net.Sockets.dll
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\roslyn\System.Reflection.Metadata.dll
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\roslyn\System.ValueTuple.dll
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\roslyn\System.Xml.XPath.dll
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\roslyn\vbc.exe
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\roslyn\vbc.exe.config
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\roslyn\vbc.rsp
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\roslyn\VBCSCompiler.exe
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\roslyn\VBCSCompiler.exe.config
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\Antlr3.Runtime.dll
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\AspNet.ScriptManager.bootstrap.dll
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\AspNet.ScriptManager.jQuery.dll
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\libComunes.dll
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\Microsoft.ScriptManager.WebForms.dll
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\Microsoft.Web.Infrastructure.dll
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\Newtonsoft.Json.dll
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\System.Web.Helpers.dll
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\System.Web.Mvc.dll
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\System.Web.Optimization.dll
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\System.Web.Razor.dll
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\System.Web.WebPages.Deployment.dll
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\System.Web.WebPages.dll
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\System.Web.WebPages.Razor.dll
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\WebGrease.dll
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\libComunes.pdb
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\System.Web.Helpers.xml
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\System.Web.Mvc.xml
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\System.Web.Razor.xml
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\System.Web.WebPages.xml
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\System.Web.WebPages.Deployment.xml
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\System.Web.WebPages.Razor.xml
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\System.Web.Optimization.xml
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\Newtonsoft.Json.xml
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\Antlr3.Runtime.pdb
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\bin\it\System.Web.Mvc.resources.dll
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\obj\Debug\HotelReserva.csproj.CopyComplete
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\obj\Debug\HotelReserva.dll
+D:\ITM\2022.2\aplicacionesYServidores\Parcial II\HotelReserva\obj\Debug\HotelReserva.pdb
